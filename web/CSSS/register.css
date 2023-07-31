@@ -1,0 +1,47 @@
+.res {
+    width: 400px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+}
+
+.res_form {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.res_h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.res_ta {
+    width: 100%;
+}
+
+.res_td {
+    padding: 10px;
+}
+
+.res_ty_te {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+}
+
+.res_ty_su {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.res_ty_su:hover {
+    background-color: #3e8e41;
+}

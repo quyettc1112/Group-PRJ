@@ -1,0 +1,33 @@
+table.order {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table.order td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+table.order tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+table.order tr:hover {
+    background-color: #ddd;
+}
+
+table.order th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+}
+.plantimg {
+    height: 100px;
+    width: 100px;
+}
+
+table.order  {
+    text-align: center;
+}

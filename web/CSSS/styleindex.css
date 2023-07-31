@@ -1,0 +1,70 @@
+.logoo img {
+    height: 80px;
+    width: 80px;
+    
+}
+
+.product {width: 20%; height: auto; float:left; margin: 5%;}
+
+/*.order { border: 1px solid #cccccc; width:100%; margin: 1%;}
+.order tr:first-child{ width:100%; background-color:#e1eee7 ; color: #006666;}
+.order td{  color:black; width: 15%;}
+.order form {
+    width:100%; background-color:#e1eee7 ; color: #006666;
+}*/
+.plantTable {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+.plantTable td, .plantTable th {
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+.plantTable th {
+  background-color: #f2f2f2;
+}
+
+.plantTable input[type="number"] {
+  width: 60px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.plantTable input[type="submit"] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+.plantTable input[type="submit"]:hover {
+  background-color: #3e8e41;
+}
+
+.plantTable h1 {
+  font-size: 24px;
+  text-align: center;
+  margin: 20px;
+}
+.formTR {
+  width: auto;
+  background-color: #fff;
+  border-bottom: 1px solid #ccc;
+  color: #333;
+  font-size: 16px; 
+  text-align: center;
+ 
+}
+.formTR td {
+    text-align: center;
+    
+}

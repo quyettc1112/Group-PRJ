@@ -1,0 +1,18 @@
+.acc {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.accinfo {
+    background-color: #f2f2f2;
+}
+
+.balancetext {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.mess{
+    text-align: center;
+}
